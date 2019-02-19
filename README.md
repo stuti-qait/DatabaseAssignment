@@ -1,4 +1,7 @@
 # DatabaseAssignment
+## Given ER Diagram:
+![Given ER Diagram Image](https://github.com/stuti-qait/DatabaseAssignment/blob/master/Sample%20ER%20Diagram.jpg?raw=true)
+
 
 ## Write Queries for:
   1. List the customer name, check number, payment date and amount for the customer with customer number 1001.
